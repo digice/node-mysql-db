@@ -1,0 +1,23 @@
+{
+  "name": "node-mysql-db",
+  "version": "1.0.0",
+  "description": "ES6 implementation of promise-mysql in a node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digice/node-mysql-db.git"
+  },
+  "keywords": [],
+  "author": "Roderic Linguri <linguri@digices.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digice/node-mysql-db/issues"
+  },
+  "homepage": "https://github.com/digice/node-mysql-db#readme",
+  "dependencies": {
+    "promise-mysql": "^3.3.1"
+  }
+}
