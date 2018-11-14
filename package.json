@@ -1,6 +1,6 @@
 {
   "name": "node-mysql-db",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "description": "ES6 implementation of promise-mysql in a node app",
   "main": "index.js",
   "scripts": {

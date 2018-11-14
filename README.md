@@ -23,6 +23,12 @@ _ES6 implementation of promise-mysql in a node app_
 
 ### <a name="changelog">CHANGELOG</a> ###
 
+#### [0.1.3] (2018-11-14) ####
+
+- Create Table abstract class
+- Extend Table with TestTable
+- Test queries on TestTable
+
 #### [0.1.2] (2018-11-14) ####
 
 - Add MySQL example to create user and database
